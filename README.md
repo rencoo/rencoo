@@ -1,5 +1,11 @@
 ### Hi 👋
 [![rencoo's github stats](https://github-readme-stats.vercel.app/api?username=rencoo)](https://github.com/rencoo)
+
+### Merged PRs
+[ng-zorro-antd #6245](https://github.com/NG-ZORRO/ng-zorro-antd/pull/6245)
+
+### Accepted Issues
+[amis #3781](https://github.com/baidu/amis/issues/3781)
 <!--
 **rencoo/rencoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
