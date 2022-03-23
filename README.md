@@ -6,6 +6,8 @@
 
 ### Accepted Issues
 [amis #3781](https://github.com/baidu/amis/issues/3781)
+
+[eslint #14861](https://github.com/eslint/eslint/issues/14861)
 <!--
 **rencoo/rencoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
