@@ -1,5 +1,8 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
+<!--
 ### Hi 👋
 [![rencoo's github stats](https://github-readme-stats.vercel.app/api?username=rencoo)](https://github.com/rencoo)
+-->
 
 ### Merged PRs
 [ng-zorro-antd #6245](https://github.com/NG-ZORRO/ng-zorro-antd/pull/6245)
