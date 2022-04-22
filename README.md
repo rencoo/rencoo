@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!">
+<!-- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!"> -->
 <!--
 ### Hi 👋
 [![rencoo's github stats](https://github-readme-stats.vercel.app/api?username=rencoo)](https://github.com/rencoo)
