@@ -10,6 +10,8 @@
 ### Accepted Issues
 [amis #3781](https://github.com/baidu/amis/issues/3781)
 
+[amis #4754](https://github.com/baidu/amis/issues/4754)
+
 [eslint #14861](https://github.com/eslint/eslint/issues/14861)
 
 [ng-zorro-antd #5980](https://github.com/NG-ZORRO/ng-zorro-antd/issues/5980)
